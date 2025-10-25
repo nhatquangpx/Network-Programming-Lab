@@ -1,0 +1,3 @@
+hust hello hust@hust.edu.vn https://hust.edu.vn 0 
+soict soict123 soict@soict.edu.vn https://soict.edu.vn 1 
+blockeduser pass123 test@x.com https://example.com 0
